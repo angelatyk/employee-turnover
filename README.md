@@ -7,9 +7,9 @@ Using HR data from Portobello Tech, the notebook explores employee characteristi
 ## Project Structure
 
 #### `Employee_Turnover_Prediction.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/<INSERT_NOTEBOOK_ID_HERE>)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1J4uc5aWQWFoA-xMGt0mOediZGPt5BVWJ?usp=sharing)
 
-[View on GitHub](https://github.com/angelatyk/<REPO_NAME>/blob/main/notebooks/Employee_Turnover_Prediction.ipynb)
+[View on GitHub](https://github.com/angelatyk/employee-turnover/blob/main/Employee_Turnover_Prediction.ipynb)
 
 Key highlights:  
 
@@ -23,7 +23,7 @@ Key highlights:
 
 ## Dataset
 - **HR Dataset** – Includes features such as satisfaction level, last evaluation, number of projects, monthly hours, years at company, promotion history, salary, department, and turnover label.
-    - Source: [Link to dataset](https://github.com/angelatyk/bikeease-analytics-series/blob/main/data/04_nlp_sentiment_analysis/bike_rental_reviews.csv)  
+    - Source: [Link to dataset](https://github.com/angelatyk/employee-turnover/blob/main/data/HR_comma_sep.csv)  
 
 ## Author
 [@angelatyk](https://www.github.com/angelatyk)
