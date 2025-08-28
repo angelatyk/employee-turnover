@@ -23,7 +23,8 @@ Key highlights:
 
 ## Dataset
 - **HR Dataset** – Includes features such as satisfaction level, last evaluation, number of projects, monthly hours, years at company, promotion history, salary, department, and turnover label.
-    - Source: [Link to dataset](https://github.com/angelatyk/employee-turnover/blob/main/data/HR_comma_sep.csv)  
+    - Source: [Link to dataset](https://github.com/angelatyk/employee-turnover/blob/main/data/HR_comma_sep.csv)
+    - You can download the data, upload it as-is to the notebook, and run the code without additional setup.
 
 ## Author
 [@angelatyk](https://www.github.com/angelatyk)
