@@ -1,5 +1,5 @@
 # Employee Turnover Prediction
-This project predicts which employees are most likely to leave and identifies the key drivers of turnover, helping companies take proactive retention measures.
+This project predicts which employees are at risk of leaving Portobello Tech and uncovers the key factors driving turnover, enabling proactive retention strategies.
 
 ## Introduction
 Using HR data from Portobello Tech, the notebook explores employee characteristics, uncovers factors influencing retention, and applies machine learning models to predict turnover risk. It combines **exploratory data analysis (EDA), clustering, class imbalance handling, and model evaluation** to generate actionable insights for HR decision-making.
